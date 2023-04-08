@@ -8,6 +8,8 @@ en küçüğü bulma
 
 Big O = O(n^2)
 
+18 Average case
+
 
 
 [7,3,5,8,2,9,4,15,6] -> Selection Sort(first four steps)
